@@ -15,7 +15,6 @@ This program contists 5 functions.The name of the functions and a short descript
 (5)Booking Function:The "booking()" function allows a logged-in user to book a vaccine appointment. It displays available vaccines and vaccination centers, and the user can choose one. The program updates the availability of vaccines and confirms the booking.
 
 Here are some screenshots after running this program:
-![test 03](https://github.com/israt610/VaccinationAppointmentBookingSystem/assets/144274982/8d4b9cd3-e071-40d0-86e9-f86d2c8df7e3)
-![test 02](https://github.com/israt610/VaccinationAppointmentBookingSystem/assets/144274982/38f46909-aaae-4b93-948a-2909cbdb36bc)
-![test 01](https://github.com/israt610/VaccinationAppointmentBookingSystem/assets/144274982/103a2cd3-0bb0-4db8-bc68-f0e69951b88d)
+
+
 
